@@ -1,6 +1,6 @@
 @font-face {
 	font-family: OratorStd;
-	src: url(http://jakeschweihs.com/fonts/OratorStd.otf);
+	src: url("/fonts/OratorStd.otf");
 }
 
 html {
@@ -42,7 +42,7 @@ iframe {
 	display: block;
 	height = 184px;
 	width: 100%;
-	background-image:url("http://jakeschweihs.com/images/headBG.jpg");
+	background-image:url("/images/headBG.jpg");
 	background-repeat: repeat-x;
 }
 
@@ -115,18 +115,18 @@ iframe {
 
 #contentTop {
 	height: 16px;
-	background-image: url("http://jakeschweihs.com/images/mainFrame_top.jpg");
+	background-image: url("/images/mainFrame_top.jpg");
 	background-repeat: no-repeat;
 }
 
 #contentMid {
-	background-image: url("http://jakeschweihs.com/images/mainFrame_mid.jpg");
+	background-image: url("/images/mainFrame_mid.jpg");
 	background-repeat: repeat-y;
 }
 
 #contentBot {
 	height: 32px;
-	background-image: url("http://jakeschweihs.com/images/mainFrame_bot.jpg");
+	background-image: url("/images/mainFrame_bot.jpg");
 	background-repeat: no-repeat;
 }
 
