@@ -1,7 +1,7 @@
 <div id="header">
 	<div id="headerWrapper">
 		<div id="headerTopContent">
-			<a href="http://www.jakeschweihs.com"><img id="logo" src="/images/logo.jpg" alt="Jake Schweihs - Technical Artist"></a>
+			<a href="/"><img id="logo" src="/images/logo.jpg" alt="Jake Schweihs - Technical Artist"></a>
 			<div id="contact">
 				<p>jSchweihs@gmail.com</p>
 				<p>Skype: SchweeDubulus</p>
@@ -16,7 +16,7 @@
 
 		<div id="headerMenu">
 			<ul id="headerMenuList">
-				<li><a href="http://www.jakeschweihs.com">Home</a></li>
+				<li><a href="/">Home</a></li>
 				<li><a href="/rigging">Rigging</a></li>
 				<li><a href="/modeling">Modeling</a></li>
 				<li><a href="/pixel-art">Pixel Art</a></li>

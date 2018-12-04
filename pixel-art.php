@@ -28,8 +28,7 @@
 			<br>
 			<br><h2>Dark Magic</h2><br>
 			<img class="transAsset" src="/images/wizardMoves.gif" alt="Dark Magic Moveset">
-			<img src="/images/darkMagic_screenshot.png" alt="Dark Magic Screenshot">
-			
+
 			<br><h2>Pop Culture</h2><br>
 			<img src="/images/roadHog.png" alt="Road Hog Pixel Art">
 			<p class = "captionP">Road Hog from Overwatch</p>
@@ -46,10 +45,10 @@
 			</div>
 		</div>
 	</div>
-	
+
 	<div id="contentBot"></div>
 
-	
+
 </div>
 
 <?php include("footer.php"); ?>

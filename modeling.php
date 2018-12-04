@@ -11,7 +11,7 @@
 <meta name="robots" content="all" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1, user-scalable=no">
 
-<link rel="canonical" href="http://www.jakeschweihs.com/modeling" />
+<link rel="canonical" href="/modeling" />
 <link rel="stylesheet" type="text/css" href="style.css">
 
 </head>
@@ -35,8 +35,6 @@
 			<a href="/images/dragonKnightSkin.png"><img width="720" height="420" src="/images/dragonKnightSkin.png" alt="Dragon Knight Skin"></a>
 			<p class="captionP">Custom skin for Dragon Knight from Dota 2.</p>
 			<br><h2>Interiors</h2><br>
-			<a href="/images/kitchenInterior.png"><img width="720" height="405" src="/images/kitchenInterior.png" alt="Kitchen Interior"></a>
-			<p class="captionP">Kitchen Day Interior in Mental Ray</p>
 			<a href="/images/bedoomInterior.jpg"><img width="720" height="405" src="/images/bedoomInterior.jpg" alt="Bedroom Interior"></a>
 			<p class="captionP">Bedroom Night Interior in Mental Ray</p>
 			<br><h2>Blacksmith</h2><br>
@@ -44,14 +42,14 @@
 			<p class="captionP">Modeled in zBrush and rendered in Mental Ray</p>
 			<img src="/images/castanerHighres.png" alt="Blacksmith Close Up">
 			<p class="captionP">zBrush Screenshot</p>
-			
+
 			</div>
 		</div>
 	</div>
-	
+
 	<div id="contentBot"></div>
 
-	
+
 </div>
 
 <?php include("footer.php"); ?>
